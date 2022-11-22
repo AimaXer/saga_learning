@@ -1,0 +1,18 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.fixAll.eslint": true,
+    "source.organizeImports": true
+  },
+  "eslint.validate": ["javascript", "typescript"],
+  "cSpell.words": [
+    "allitems",
+    "Subscreen"
+  ],
+  "eslint.workingDirectories": [
+    "saga1",
+    "saga2",
+    "saga3",
+    "thunk1",
+  ]
+}
